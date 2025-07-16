@@ -18,3 +18,10 @@ Model: Fusion
 Year: 2010
 Color: Black
 Mileage: 99000
+
+VIN: 3FAHP0HA0AR123456
+Make: Ford
+Model: Fusion
+Year: 2010
+Color: Black
+Mileage: 99000
